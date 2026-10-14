@@ -1,0 +1,77 @@
+I build Roblox games players come back to: full game builds, clean Luau systems, responsive UI and animation, tested on PC, mobile and tablet. Your game stays safe, and everything I build is 100% yours.
+
+Whether you have a new idea, a half-finished game, or a live experience that needs fixing, I take it from where it is to launch-ready.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎮 GAMES I BUILD
+
+Simulator, clicker and tycoon • "Steal a" base-raiding games • Grow-a-Garden style farming with mutations and weather events • Dress-up and fashion (Dress to Impress style) • Tower defense • Obby and "+1 Speed" escape • Roleplay (Brookhaven style) • Horror • PvP, combat and anime ability games • Co-op survival and building • RPG and creature collecting
+
+⚙️ SYSTEMS I BUILD
+
+• Core gameplay loop, progression, currency, XP, rebirth and prestige
+• DataStore and ProfileService saving with session locking. Players do not lose progress.
+• Gamepasses, developer products and monetization that feels organic
+• Shops, inventories, Index and collection books, trading, leaderboards, quests, pets
+• Server validation and exploit prevention: the server decides, the client only asks
+• Combat, abilities, ragdoll, hit detection and cooldowns
+• Rounds, lobbies, teams, voting and matchmaking
+
+🖥️ UI/UX THAT WORKS ON EVERY SCREEN
+
+Shop, inventory, HUD, settings, profile and season pass screens built from your references. Tested on PC, mobile portrait, mobile landscape and tablet: no clipped windows, no tiny buttons, nothing hidden under the Roblox top bar. Most of your players are on phones, so I design for them first.
+
+🎬 ANIMATION, VFX AND BUILDS
+
+Character and gameplay animation (Moon Animator, Blender), animated short videos for YouTube, TikTok and Reels from your script and voiceover, anime and brainrot-style VFX optimized for mobile, maps, lobbies and interactive builds.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔒 YOUR GAME IS SAFE WITH ME
+
+• I never ask for your Roblox password. I work through Team Create or group permissions you control.
+• No backdoors, no hidden admin, no obfuscated code, no unknown require() assets.
+• Every third-party plugin, model or sound is disclosed and properly licensed.
+• You own the game, the code and the revenue. Full source and handover at the end.
+• I follow Roblox Community Standards and Terms of Use, including the rules on paid random items. If a feature could get your game moderated, I tell you before I build it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧭 HOW I WORK: THE LAUNCH-READY PROCESS
+
+1. Scope. I study your idea or your game, then send a written plan: features, milestones, timeline and price. If something does not fit your budget, I tell you before we start, never halfway through.
+2. Playable prototype first. You play the core loop in Roblox before I build content around it.
+3. Build in milestones. Short updates with video clips so you always see real progress.
+4. Test like a player. Multiplayer tests, PC and mobile checks, exploit checks, and no new errors in the output.
+5. Launch-ready polish. Performance tuning for low-end phones, UI cleanup, and help with your icon, thumbnails and game page.
+6. Handover and LiveOps. Clean, commented, modular Luau and a short written guide. I stay on for weekly updates, events and new features.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 ALREADY HAVE A GAME? OR ONE BUILT WITH AI?
+
+I read your existing code and understand every system before I change anything. Working features stay working.
+
+I also use AI tools (Claude, Roblox MCP) in my own workflow to move faster, so I am comfortable taking over a game built partly with AI and making it stable, secure and ready for real players.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ TOOLS
+
+Roblox Studio • Luau (typed) • Rojo • Knit • ProfileService / DataStore2 • MemoryStore • Open Cloud • Moon Animator • Blender • Git • Roblox Analytics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 WORKING WITH ME
+
+• Lagos, Nigeria (UTC+1). I overlap with US and UK/EU working hours and adjust for calls.
+• Clear, fluent English and fast replies, with an update before you have to ask.
+• Happy to start with a small paid test so you can judge my work first.
+• I prefer long-term work: I care about your game growing after launch, not just shipping a task.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👉 START HERE
+
+Send me your idea, your game link, or the feature that is broken. I will reply with how I would approach it, what it will take, and anything that could go wrong, before you spend a single dollar.
