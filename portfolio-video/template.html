@@ -1,0 +1,199 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Roblox Case Study</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1920px; height: 1080px; overflow: hidden; background: #0A0E1A;
+    font-family: Inter, sans-serif; color: #E8ECF5; }
+  #bg { position: absolute; inset: 0;
+    background: radial-gradient(circle at 15% 20%, rgba(124,92,255,.22), transparent 45%),
+                radial-gradient(circle at 85% 85%, rgba(34,211,238,.14), transparent 45%); }
+  #grid { position: absolute; inset: -80px;
+    background-image: linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+    background-size: 80px 80px; }
+  .scene { position: absolute; inset: 0; padding: 0 160px 40px; opacity: 0;
+    display: flex; flex-direction: column; justify-content: center; }
+  .a { opacity: 0; will-change: transform, opacity; }
+  .eyebrow { font-size: 26px; letter-spacing: .22em; text-transform: uppercase; color: #22D3EE; font-weight: 600; }
+  h1 { font-size: 104px; font-weight: 800; line-height: 1.04; letter-spacing: -.025em; margin-top: 28px; }
+  h2 { font-size: 76px; font-weight: 750; letter-spacing: -.02em; margin-top: 20px; }
+  .grad { background: linear-gradient(90deg, #A78BFA, #22D3EE); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .sub { font-size: 36px; color: #9AA4BF; margin-top: 36px; font-weight: 400; }
+  .meta { display: flex; gap: 56px; margin-top: 90px; font-size: 26px; color: #9AA4BF; }
+  .meta b { display: block; color: #E8ECF5; font-size: 30px; font-weight: 600; margin-top: 8px; }
+
+  .pains { margin-top: 70px; display: flex; flex-direction: column; gap: 30px; }
+  .pain { display: flex; align-items: center; gap: 32px; font-size: 40px; font-weight: 500; }
+  .pain i { width: 64px; height: 64px; border-radius: 16px; background: rgba(248,113,113,.14);
+    color: #F87171; display: grid; place-items: center; font-style: normal; font-weight: 700; font-size: 34px; flex: none; }
+
+  #flow { position: relative; width: 1600px; height: 300px; margin-top: 80px; }
+  #flow svg { position: absolute; inset: 0; overflow: visible; }
+  .node { position: absolute; top: 25px; width: 300px; height: 250px; border-radius: 24px;
+    background: rgba(255,255,255,.045); border: 1.5px solid rgba(167,139,250,.35);
+    padding: 34px 30px; }
+  .node .n { font-size: 22px; color: #22D3EE; font-weight: 600; letter-spacing: .1em; }
+  .node .t { font-size: 31px; font-weight: 700; margin-top: 18px; line-height: 1.15; }
+  .node .d { font-size: 23px; color: #9AA4BF; margin-top: 12px; }
+  .node.ai { border-color: #A78BFA; background: rgba(124,92,255,.14); box-shadow: 0 0 60px rgba(124,92,255,.25); }
+
+  .stats { display: flex; gap: 48px; margin-top: 90px; }
+  .stat { flex: 1; padding: 50px 46px; border-radius: 28px; background: rgba(255,255,255,.04);
+    border: 1.5px solid rgba(255,255,255,.08); }
+  .stat .v { font-size: 64px; font-weight: 800; letter-spacing: -.03em; line-height: 1; }
+  .stat .l { font-size: 29px; color: #9AA4BF; margin-top: 24px; line-height: 1.3; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 26px; margin-top: 80px; max-width: 1400px; }
+  .chip { font-size: 36px; font-weight: 600; padding: 24px 40px; border-radius: 999px;
+    background: rgba(255,255,255,.05); border: 1.5px solid rgba(34,211,238,.35); }
+
+  .center { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+  #progress { position: absolute; left: 0; bottom: 0; height: 6px; background: linear-gradient(90deg, #7C5CFF, #22D3EE); }
+  #tag { position: absolute; top: 44px; right: 56px; font-size: 20px; letter-spacing: .15em; color: #6B7591;
+    border: 1px solid #2A3247; padding: 10px 18px; border-radius: 8px; }
+</style>
+</head>
+<body>
+<div id="bg"></div><div id="grid"></div>
+<div id="tag"></div>
+
+<!-- 1. Title -->
+<section class="scene" data-start="0" data-end="5">
+  <div class="eyebrow a" data-t="0.3" id="s1-eyebrow"></div>
+  <h1 class="a" data-t="0.6" id="s1-title"></h1>
+  <div class="sub a" data-t="1.2" id="s1-sub"></div>
+  <div class="meta" id="s1-meta"></div>
+</section>
+
+<!-- 2. Challenge -->
+<section class="scene" data-start="5" data-end="11">
+  <div class="eyebrow a" data-t="5.3">The challenge</div>
+  <h2 class="a" data-t="5.5" id="s2-title"></h2>
+  <div class="pains" id="s2-pains"></div>
+</section>
+
+<!-- 3. Solution -->
+<section class="scene" data-start="11" data-end="19">
+  <div class="eyebrow a" data-t="11.3">How I built it</div>
+  <h2 class="a" data-t="11.5" id="s3-title"></h2>
+  <div id="flow"><svg id="flow-svg" width="1600" height="300"></svg></div>
+</section>
+
+<!-- 4. Results -->
+<section class="scene" data-start="19" data-end="25.5">
+  <div class="eyebrow a" data-t="19.3">What was delivered</div>
+  <h2 class="a" data-t="19.5" id="s4-title"></h2>
+  <div class="stats" id="s4-stats"></div>
+</section>
+
+<!-- 5. Stack -->
+<section class="scene" data-start="25.5" data-end="29.5">
+  <div class="eyebrow a" data-t="25.8">Built with</div>
+  <h2 class="a" data-t="26">Tech stack</h2>
+  <div class="chips" id="s5-chips"></div>
+</section>
+
+<!-- 6. CTA -->
+<section class="scene center" data-start="29.5" data-end="34">
+  <div class="eyebrow a" data-t="29.8" id="s6-eyebrow"></div>
+  <h1 class="a" data-t="30.1" id="s6-title"></h1>
+  <div class="sub a" data-t="30.8" id="s6-sub"></div>
+</section>
+
+<div id="progress"></div>
+
+<script>
+// ---- Edit this block to make the video about your own project ----
+const CONFIG = window.CONFIG;
+const DURATION = 34;
+// -------------------------------------------------------------------
+
+const $ = id => document.getElementById(id);
+$("tag").textContent = CONFIG.tag || ""; if (!CONFIG.tag) $("tag").style.display = "none";
+$("s1-eyebrow").textContent = CONFIG.eyebrow;
+$("s1-title").innerHTML = CONFIG.title;
+$("s1-sub").textContent = CONFIG.subtitle;
+$("s1-meta").innerHTML = CONFIG.meta.map(([k, v], i) =>
+  `<div class="a" data-t="${1.8 + i * 0.25}">${k}<b>${v}</b></div>`).join("");
+$("s2-title").textContent = CONFIG.challengeTitle;
+$("s2-pains").innerHTML = CONFIG.pains.map((p, i) =>
+  `<div class="pain a" data-t="${6.4 + i * 0.8}" data-x="1"><i>✕</i>${p}</div>`).join("");
+$("s3-title").textContent = CONFIG.solutionTitle;
+
+// Workflow diagram: nodes laid out left to right, connectors drawn in SVG
+const NODE_W = 300, GAP = (1600 - NODE_W * CONFIG.flow.length) / (CONFIG.flow.length - 1);
+const flow = $("flow"), svg = $("flow-svg");
+CONFIG.flow.forEach(([t, d], i) => {
+  const el = document.createElement("div");
+  el.className = "node a" + (i === CONFIG.aiNode ? " ai" : "");
+  el.dataset.t = 12.4 + i * 0.9;
+  el.dataset.scale = "1";
+  el.style.left = i * (NODE_W + GAP) + "px";
+  el.innerHTML = `<div class="n">STEP ${i + 1}</div><div class="t">${t}</div><div class="d">${d}</div>`;
+  flow.appendChild(el);
+  if (i < CONFIG.flow.length - 1) {
+    const x1 = i * (NODE_W + GAP) + NODE_W + 8, x2 = (i + 1) * (NODE_W + GAP) - 8, y = 150;
+    svg.insertAdjacentHTML("beforeend",
+      `<path class="wire" data-t="${12.9 + i * 0.9}" d="M${x1} ${y} L${x2 - 14} ${y}" stroke="#A78BFA" stroke-width="4" fill="none" stroke-linecap="round"/>
+       <path class="wire" data-t="${13.3 + i * 0.9}" d="M${x2 - 22} ${y - 12} L${x2 - 8} ${y} L${x2 - 22} ${y + 12}" stroke="#A78BFA" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`);
+  }
+});
+svg.insertAdjacentHTML("beforeend",
+  `<circle id="pulse" r="10" fill="#22D3EE" style="filter: drop-shadow(0 0 12px #22D3EE)" opacity="0"/>`);
+
+$("s4-title").textContent = CONFIG.resultsTitle;
+$("s4-stats").innerHTML = CONFIG.features.map(([v, l], i) =>
+  `<div class="stat a" data-t="${20.2 + i * 0.5}"><div class="v grad">${v}</div><div class="l">${l}</div></div>`).join("");
+$("s5-chips").innerHTML = CONFIG.stack.map((s, i) =>
+  `<div class="chip a" data-t="${26.5 + i * 0.22}" data-scale="1">${s}</div>`).join("");
+$("s6-eyebrow").textContent = CONFIG.ctaEyebrow;
+$("s6-title").innerHTML = CONFIG.ctaTitle;
+$("s6-sub").textContent = CONFIG.ctaSub;
+
+// ---- Deterministic renderer: render(t) draws the frame at time t (seconds) ----
+const clamp = v => Math.max(0, Math.min(1, v));
+const easeOut = p => 1 - Math.pow(1 - p, 3);
+const prog = (t, start, dur) => easeOut(clamp((t - start) / dur));
+
+const scenes = [...document.querySelectorAll(".scene")];
+const anims = [...document.querySelectorAll(".a")];
+const wires = [...document.querySelectorAll(".wire")];
+const counters = [...document.querySelectorAll("[data-count]")];
+wires.forEach(w => { const L = w.getTotalLength(); w.dataset.len = L; w.style.strokeDasharray = L; });
+
+window.render = t => {
+  scenes.forEach(s => {
+    const a = +s.dataset.start, b = +s.dataset.end;
+    const fadeOut = b >= DURATION ? 1 : 1 - clamp((t - (b - 0.5)) / 0.5);
+    s.style.opacity = t >= a && t < b ? fadeOut : 0;
+  });
+  anims.forEach(el => {
+    const p = prog(t, +el.dataset.t, 0.7);
+    el.style.opacity = p;
+    if (el.dataset.scale) el.style.transform = `scale(${0.9 + 0.1 * p})`;
+    else if (el.dataset.x) el.style.transform = `translateX(${(1 - p) * -40}px)`;
+    else el.style.transform = `translateY(${(1 - p) * 36}px)`;
+  });
+  wires.forEach(w => { w.style.strokeDashoffset = w.dataset.len * (1 - prog(t, +w.dataset.t, 0.45)); });
+  counters.forEach(c => { c.textContent = Math.round(+c.dataset.count * prog(t, +c.dataset.t, 1.6)) + c.dataset.suf; });
+
+  // Pulse travels along the pipeline once the diagram is drawn
+  const pulse = $("pulse"), loopStart = 16;
+  if (t > loopStart && t < 18.5) {
+    const p = ((t - loopStart) / 2.2) % 1, last = CONFIG.flow.length - 1;
+    pulse.setAttribute("cx", 150 + p * last * (NODE_W + GAP));
+    pulse.setAttribute("cy", 150);
+    pulse.setAttribute("opacity", Math.min(1, (t - loopStart) * 4));
+  } else pulse.setAttribute("opacity", 0);
+
+  $("grid").style.transform = `translate(${(t * 6) % 80}px, ${(t * 3) % 80}px)`;
+  $("progress").style.width = (t / DURATION * 100) + "%";
+};
+window.DURATION = DURATION;
+render(0);
+</script>
+</body>
+</html>
