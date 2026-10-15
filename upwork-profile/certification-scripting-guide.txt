@@ -1,0 +1,37 @@
+The Ultimate Guide to ROBLOX Scripting & Development (2026), Udemy: a hands-on scripting course with 53 lectures, assignments and a practice test, focused on Roblox Lua/Luau programming, debugging, GUI development and building complete games in Roblox Studio. Completed July 2026.
+
+WHAT THIS COURSE COVERED
+• Roblox Studio in depth: navigating the editor, services, the Explorer and Properties, and organizing a project properly
+• Lua/Luau programming: variables, functions, tables, loops, events and modular code
+• Advanced scripting techniques that make games stand out
+• Optimal programming practices: clean, readable, efficient and reusable code
+• Debugging: reading the Output, tracing errors and fixing broken scripts
+• GUI creation: building menus, buttons, shops and on-screen interfaces
+• Creating a complete Roblox game, with assignments and a practice test to apply each concept
+
+WHAT I CAN OFFER YOU WITH THIS KNOWLEDGE
+• Luau scripting for new features: shops, inventories, quests, leaderboards, rounds, abilities and progression
+• Bug fixing: I read the Output, trace the real cause and fix it without breaking what already works
+• Clean, modular code with ModuleScripts and clear client and server separation, so your game is easy to update later
+• GUI and UI scripting: responsive menus, shops, HUDs and inventories that work on PC, mobile and tablet
+• Server-side validation on RemoteEvents, so exploiters cannot fake purchases, damage or rewards
+• DataStore saving so player progress, currency and items are never lost
+• Gamepasses and developer products wired correctly, so every purchase is granted exactly once
+• Code reviews and cleanup of existing projects, including games built partly with AI tools
+
+HOW I WORK ON YOUR SCRIPTS
+1. Understand the problem. I read your existing code and reproduce the bug or study the feature you want before writing anything.
+2. Explain the plan. You get a short, clear note on what is wrong or how the feature will work, plus the time and price. If it is bigger than expected, I tell you before I start, never halfway through.
+3. Build or fix. Clean, commented Luau that follows good practices, with trust kept on the server.
+4. Test like a real player. Multiplayer tests, PC and mobile checks, and no new errors in the Output.
+5. Deliver and explain. You get the working feature or fix and a plain-English summary of what I changed and why, so you are never left with code you do not understand.
+
+YOUR GAME STAYS SAFE
+• I never ask for your Roblox password. I work through Team Create or group permissions you control.
+• No backdoors, no hidden admin, no obfuscated code and no unknown require() assets.
+• I only change what is needed and keep every working feature working.
+
+WHY IT MATTERS FOR YOUR PROJECT
+Most Roblox problems come from scripts that trust the client, save data unsafely or grow messy over time. Strong scripting fundamentals and good debugging habits mean your game gets fixes that last, features that work in real multiplayer servers, and code that any future developer can pick up.
+
+Whether you need one bug fixed, a new feature added or a full system built, send me the details. I will reply with how I would approach it and what it will take, before you spend a single dollar.
