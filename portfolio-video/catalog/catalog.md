@@ -25,11 +25,18 @@ Prices are suggestions based on the 50 Roblox jobs reviewed; change them to suit
 | **Source & handover** | ✓ | ✓ | ✓ + written guide |
 
 **Description:**
-Have a Roblox game idea, or want a game in a style that is trending right now (simulator, tycoon, "Steal a", Grow-a-Garden style, tower defense, obby, fashion)? I build it with you, step by step.
+Have a Roblox game idea, or want a game in a style that is trending right now? Simulator, tycoon, "Steal a", Grow-a-Garden style, tower defense, obby, roleplay or fashion: I build it with you, step by step, from first prototype to launch.
 
-You play a working prototype of the core loop first, before I build content around it. Then I add progression, DataStore saving, shops, gamepasses and responsive UI, tested on PC, mobile and tablet.
+How it works:
+1. I study your idea and send a clear plan with features, milestones and timeline.
+2. You play a working prototype of the core loop first, before I build content around it.
+3. I add progression, rebirth, DataStore saving, shops, gamepasses, developer products and responsive UI.
+4. I test everything like a real player: multiplayer, exploits, and PC, mobile and tablet. Most players are on phones, so mobile comes first.
+5. You get clean, commented Luau and a full handover.
 
-Your game stays safe: I work through Team Create permissions you control, never your password. No backdoors, no obfuscated code, and you own the game, the code and the revenue.
+You get short progress updates with video clips, so you always see real progress. If something will not fit your budget, I tell you before we start, never halfway through.
+
+Your game stays safe: I work through Team Create permissions you control, never your password. No backdoors, no hidden admin, no obfuscated code, and every asset is properly licensed. You own the game, the code and the revenue.
 
 **Questions for the buyer (requirements):**
 1. Describe your game idea, or link a Roblox game that is similar to what you want.
