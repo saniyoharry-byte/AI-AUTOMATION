@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Catalog Covers</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 2000px; height: 1500px; overflow: hidden; background: #0A0E1A;
+    font-family: Inter, sans-serif; color: #E8ECF5; }
+  #bg { position: absolute; inset: 0;
+    background: radial-gradient(circle at 12% 15%, rgba(124,92,255,.28), transparent 45%),
+                radial-gradient(circle at 90% 90%, rgba(34,211,238,.18), transparent 45%); }
+  #grid { position: absolute; inset: 0;
+    background-image: linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+                      linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+    background-size: 100px 100px; }
+  main { position: absolute; inset: 0; padding: 150px 160px; display: flex; flex-direction: column; }
+  .eyebrow { font-size: 36px; letter-spacing: .2em; text-transform: uppercase; color: #22D3EE; font-weight: 600; }
+  h1 { font-size: 132px; font-weight: 800; line-height: 1.02; letter-spacing: -.03em; margin-top: 36px; }
+  .grad { background: linear-gradient(90deg, #A78BFA, #22D3EE); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  ul { list-style: none; margin-top: 80px; display: grid; grid-template-columns: 1fr 1fr; gap: 34px 60px; }
+  li { font-size: 46px; font-weight: 500; display: flex; align-items: center; gap: 26px; }
+  li i { width: 58px; height: 58px; border-radius: 16px; background: rgba(34,211,238,.15); color: #22D3EE;
+    display: grid; place-items: center; font-style: normal; font-weight: 800; font-size: 34px; flex: none; }
+  footer { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; }
+  .who { font-size: 38px; color: #9AA4BF; }
+  .who b { display: block; color: #E8ECF5; font-size: 46px; margin-bottom: 8px; }
+  .price { text-align: right; font-size: 36px; color: #9AA4BF; }
+  .price b { display: block; font-size: 110px; font-weight: 800; letter-spacing: -.03em; line-height: 1; }
+</style>
+</head>
+<body>
+<div id="bg"></div><div id="grid"></div>
+<main>
+  <div class="eyebrow" id="eyebrow"></div>
+  <h1 id="title"></h1>
+  <ul id="points"></ul>
+  <footer>
+    <div class="who"><b>Harry S.</b>Roblox Developer &amp; Luau Scripter</div>
+    <div class="price">Starting at<b class="grad" id="price"></b></div>
+  </footer>
+</main>
+<script>
+  const c = window.CONFIG;
+  document.getElementById("eyebrow").textContent = c.eyebrow;
+  document.getElementById("title").innerHTML = c.title;
+  document.getElementById("points").innerHTML = c.points.map(p => `<li><i>✓</i>${p}</li>`).join("");
+  document.getElementById("price").textContent = c.price;
+</script>
+</body>
+</html>
