@@ -129,7 +129,7 @@ Created ability VFX and environments for Roblox games. On the VFX side I built a
 
 ---
 
-# PART 2: OTHER EXPERIENCES (5 entries)
+# PART 2: OTHER EXPERIENCES (10 entries)
 
 ## A. Roblox Game Security, Anti-Exploit & Server Validation
 
@@ -268,3 +268,134 @@ WHAT YOU GET
 • Your AI-built prototype turned into a game that is safe to launch.
 • Faster delivery, because AI handles repetitive work while I focus on design, security and quality.
 • Code you and any future developer can understand.
+
+---
+
+## F. Roblox Full Game Development: Concept to Launch
+
+**Description:**
+Taking a Roblox game from an idea, a reference game or a design document all the way to a published, launch-ready experience.
+
+WHAT I BUILD
+• Simulator, tycoon, clicker, obby, "Steal a" base-raiding, Grow-a-Garden style farming, tower defense, roleplay, horror, PvP and fashion games.
+• The core gameplay loop first, then progression, currency, rebirth, shops, quests, leaderboards and events around it.
+• Player data saving, gamepasses and developer products, and responsive UI for every device.
+• Lobbies, maps and game page assets direction: name, description, icon and thumbnail brief.
+
+HOW I WORK
+1. Scope. I study your idea and reference games, then send a written plan with features, milestones, timeline and price. If something does not fit your budget, I say so before we start.
+2. Playable prototype. You play the core loop in Roblox before any content is built around it.
+3. Build in milestones, with short progress updates and video clips after each one.
+4. Test like a real player: multiplayer, exploits, PC, mobile and tablet.
+5. Launch-ready polish: performance tuning, UI cleanup and onboarding for new players.
+6. Handover: clean, commented Luau, a short guide and full ownership. I can stay on for weekly updates after launch.
+
+WHAT YOU GET
+• A complete game that works, saves safely and runs smoothly on phones.
+• Visible progress at every step, with no surprises.
+• Full ownership of the game, the code and the revenue.
+
+---
+
+## G. Roblox Combat Systems & Multiplayer Architecture
+
+**Description:**
+Building fast, fair multiplayer gameplay where every player sees the same result and exploiters cannot fake hits or rewards.
+
+WHAT I BUILD
+• Melee, ranged and ability-based combat with hitboxes, combos, blocking, stuns, knockback and ragdoll.
+• Anime-style ability kits with cooldowns, charge-ups and configurable damage.
+• Round systems, lobbies, teams, matchmaking, voting and spectating.
+• Server-authoritative architecture: the client plays animations instantly, the server validates and decides.
+• Clean client and server separation with ModuleScripts and frameworks such as Knit.
+
+HOW I WORK
+1. Define how the combat should feel, using your reference games.
+2. Prototype the core fight loop so you can test the feel early.
+3. Move every important decision to the server and validate range, timing, cooldown and ownership.
+4. Test with multiple players under real latency, including people joining and leaving mid-fight.
+5. Tune feel and balance with you, then document how to add new weapons and abilities.
+
+WHAT YOU GET
+• Combat that feels responsive and fair.
+• A system that is easy to extend with new moves and weapons.
+• Fewer exploit reports and fewer frustrated players.
+
+---
+
+## H. Roblox Animation & Moon Animator for Content Creators
+
+**Description:**
+Animating Roblox characters for games and for short-form content on YouTube Shorts, TikTok and Instagram Reels.
+
+WHAT I CREATE
+• Story animations from your script and voiceover: acting, facial expressions, lip sync and camera work.
+• POV, comedy, drama and meme-style shorts that match a channel's reference style.
+• Gameplay animations for games: idles, runs, attacks, emotes and ability animations.
+• Scenes and sets built in Roblox Studio, with characters, props and lighting.
+
+TOOLS
+Moon Animator, Roblox Studio Animation Editor and Blender, chosen to match the style you want.
+
+HOW I WORK
+1. Read the script and listen to the voiceover, then break the story into shots.
+2. Set up scenes and characters that match your references.
+3. Animate movement, expressions and camera, timed to every beat of the audio.
+4. Render clean vertical video, or raw animation files if you edit yourself.
+5. Deliver on a steady schedule for ongoing channels, with quick revisions.
+
+WHAT YOU GET
+• Animations that hold attention in the first seconds.
+• A consistent look across every video on your channel.
+• Reliable weekly delivery you can plan your uploads around.
+
+---
+
+## I. Roblox LiveOps, Analytics & Player Retention
+
+**Description:**
+Helping Roblox games grow after launch by learning from real player data and releasing regular updates.
+
+WHAT I DO
+• Analytics events for the moments that matter: first session, tutorial steps, rounds, purchases, rebirths and where players quit.
+• Retention features: daily rewards, streaks, playtime rewards, quests and limited-time events.
+• Weekly update cadence: new content, balance changes, fixes and seasonal events.
+• Onboarding improvements so new players understand the game in the first minute.
+• Support for testing thumbnails, icons and game page changes with real numbers.
+
+HOW I WORK
+1. Instrument the game so you can see what players actually do.
+2. Review the data with you: where players stop, what they buy and what they ignore.
+3. Plan the next update based on the biggest opportunity.
+4. Build, test and ship the update, then measure the result.
+5. Repeat every week or two, so the game keeps improving.
+
+WHAT YOU GET
+• Decisions based on real player behavior, not guesses.
+• Updates that give players reasons to come back.
+• A long-term partner invested in your game, not just a one-off task.
+
+---
+
+## J. Roblox VFX, Maps & 3D Assets with Blender
+
+**Description:**
+Making Roblox games look premium while staying smooth on phones and low-end devices.
+
+WHAT I CREATE
+• Ability VFX: sword slashes, auras, energy blasts, impact frames, elemental effects and loud brainrot-style meme effects.
+• Themed maps, lobbies and arenas: city, fantasy, sci-fi, horror, school, roleplay and more.
+• Custom 3D props and assets modeled in Blender and optimized for Roblox.
+• Interactive builds: doors, shops, NPC areas, breakable windows and destructible walls, scripted in Luau.
+
+HOW I WORK
+1. Collect your references and agree on the style.
+2. Block out maps around the gameplay first, so the layout supports the fun.
+3. Build assets and effects, matched to your references.
+4. Optimize: particle budgets, part counts, texture sizes and StreamingEnabled.
+5. Test on PC and mobile, then deliver organized, easy-to-reuse assets.
+
+WHAT YOU GET
+• Visuals that stand out in gameplay clips and thumbnails.
+• Maps and effects that load fast and run smoothly on phones.
+• Clean, organized assets your team can reuse.
