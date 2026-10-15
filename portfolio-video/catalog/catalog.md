@@ -9,7 +9,7 @@ Prices are suggestions based on the 50 Roblox jobs reviewed; change them to suit
 
 ## 1. Full Roblox game build
 
-**Title:** You will get a complete Roblox game built in Luau, from prototype to launch
+**Title:** Full Roblox game built in Luau, from playable prototype to launch
 
 **Search tags:** Roblox Studio, Roblox game development, Luau scripting, simulator tycoon, Roblox developer
 
@@ -48,7 +48,7 @@ Your game stays safe: I work through Team Create permissions you control, never 
 
 ## 2. Roblox scripting: bug fix or new feature
 
-**Title:** You will get Roblox Luau scripts fixed or a new feature added to your game
+**Title:** Roblox Luau scripting: bug fixes or a new feature added to your game
 
 **Search tags:** Roblox scripter, Luau, Roblox bug fix, Roblox Studio, Lua scripting
 
@@ -83,7 +83,7 @@ Safe by default: Team Create access only, no backdoors, no obfuscated code, no u
 
 ## 3. Roblox UI/UX
 
-**Title:** You will get responsive Roblox UI for your shop, inventory and HUD on PC & mobile
+**Title:** Responsive Roblox UI for your shop, inventory and HUD on PC and mobile
 
 **Search tags:** Roblox UI, Roblox GUI, Roblox Studio, game UI design, mobile UI
 
@@ -117,7 +117,7 @@ I start with a mock-up for your approval, then build with scale-based layouts th
 
 ## 4. Roblox animated shorts
 
-**Title:** You will get Roblox story animations for YouTube Shorts and TikTok from your script
+**Title:** Roblox story animation for YouTube Shorts and TikTok from your script
 
 **Search tags:** Roblox animation, Moon Animator, Roblox shorts, Blender animation, YouTube Shorts animation
 
@@ -151,7 +151,7 @@ I match your channel's style and reference videos, and I can deliver on a steady
 
 ## 5. Roblox game rescue
 
-**Title:** You will get your Roblox game fixed: lag, data loss and exploits
+**Title:** Roblox game rescue: fix lag, data loss and exploits in your game
 
 **Search tags:** Roblox optimization, Roblox anti exploit, DataStore fix, Roblox lag fix, Roblox Studio
 
