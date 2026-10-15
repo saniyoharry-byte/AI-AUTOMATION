@@ -1,0 +1,39 @@
+The Complete 2026 ROBLOX Studio Masterclass (Udemy): 47 hours and 210 lectures covering every area of Roblox development, from game design and Luau scripting to Blender modeling, publishing, advertising and monetization. Completed September 2026.
+
+WHAT THIS COURSE COVERED
+• Roblox Studio in depth: workspace, services, lighting, terrain and project structure
+• Luau scripting: clean, modular code, ModuleScripts and debugging my own scripts
+• The client-server model: RemoteEvents, RemoteFunctions and server-side validation
+• Game design: building a core gameplay loop that keeps players coming back
+• Blender: creating and optimizing custom 3D models for Roblox
+• Publishing, advertising and monetizing: game pages, thumbnails, gamepasses and developer products
+
+WHAT I CAN OFFER YOU WITH THIS KNOWLEDGE
+• Full game builds: simulator, tycoon, obby, "Steal a" base-raiding, Grow-a-Garden style, tower defense, roleplay and fashion games, from concept to launch
+• Core systems: progression, currency, XP, rebirth, shops, inventories, leaderboards and quests
+• DataStore saving that keeps player progress safe, with session locking so nothing gets lost
+• Gamepasses and developer products that feel organic and motivate player spending
+• Server validation and exploit prevention: the server decides, the client only asks
+• Responsive UI for PC, mobile and tablet: no clipped windows, no tiny buttons
+• Custom Blender models and props, optimized for Roblox and low-end phones
+• Bug fixing and performance optimization on existing games, including games built with AI tools
+• Launch support: game page, icon and thumbnail direction, and monetization setup
+
+HOW I WORK ON YOUR GAME
+1. Understand your vision. I study your idea, your reference games and your existing project before writing any code. You get a clear written plan with features, milestones, timeline and price. If something does not fit your budget, I tell you before we start, never halfway through.
+2. Playable prototype first. You play the core gameplay loop in Roblox and give feedback before I build content around it.
+3. Build in milestones. I build the systems you need, such as progression, DataStore saving, shops and gamepasses, with short progress updates and video clips, so you always see real progress.
+4. Polish the UI and feel. Responsive interfaces, sounds and effects, tested on PC, mobile portrait, mobile landscape and tablet.
+5. Test like a real player. Multiplayer testing, exploit checks, mobile performance and no new errors in the output.
+6. Launch-ready handover. Clean, commented, modular Luau, a short written guide, and full ownership of the game, the code and the revenue. I can stay on for weekly updates, events and new features after launch.
+
+YOUR GAME STAYS SAFE
+• I never ask for your Roblox password. I work through Team Create or group permissions you control.
+• No backdoors, no hidden admin, no obfuscated code and no unknown require() assets.
+• Every third-party plugin, model or sound is disclosed and properly licensed.
+• I follow Roblox Community Standards and Terms of Use, so your game is not put at risk of moderation.
+
+WHY IT MATTERS FOR YOUR PROJECT
+Roblox players decide in the first minute whether they stay, and most of them play on phones. This training, combined with hands-on Roblox Studio work, means I build with that in mind: fast onboarding, a satisfying core loop, saves that never fail, fair multiplayer and monetization that players are happy to pay for.
+
+Whether you have a new idea, a half-finished game or a live experience that needs fixing, send me the details. I will reply with how I would approach it, what it will take, and anything that could go wrong, before you spend a single dollar.
