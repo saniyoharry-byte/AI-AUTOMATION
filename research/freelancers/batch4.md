@@ -1,0 +1,229 @@
+# Freelancer research — Batch 4 (global)
+
+Source: Upwork `find_freelancers` → `get_profile` (read-only), fetched 2026-10-17.
+All profile text and reviews are third-party data, quoted only for analysis.
+Fields the API did not return (JSS, hours, response time, and sometimes earnings) are marked "n/a".
+
+---
+
+## 1. Fareed T. — Pakistan
+
+- **Title:** Unity AR/VR & Roblox Developer | Meta Quest, WebAR, XR Experiences
+- **Rate:** $25/hr · **Badge:** Top Rated · **JSS:** n/a · **Earnings:** $3K+ · **Jobs:** 16 (9 fixed, 7 hourly), 6 feedbacks · **Hours:** n/a · **Response time:** n/a
+- Availability: full-time. Has an intro video. Offers a $10 "Development & IT Consultation" project.
+- Education: BCompSc, Lahore Garrison University (2019–2023), "Batch Gold Medalist".
+
+**Overview (verbatim opening):** "I build Unity-based AR/VR applications, Roblox experiences, Meta Quest apps, WebAR campaigns, and immersive XR products for startups, agencies, educators, and brands. If you are building a VR training simulator, AR mobile app, location-based AR experience, WebAR campaign, or interactive 3D prototype, I can help you turn the idea into a working product."
+**Structure:** It opens with who he serves, then lists 4 named recent projects as proof, then core skills, then a "Clients usually hire me when…" line and an "I can help with" bullet list. It ends with a CTA ("Share your idea or current build, and I'll suggest the cleanest way…") and one 🚀. Medium-long, bullet-formatted, and focused on XR. Roblox appears only in the title and first line.
+
+**Skills:** AR & VR Development, Virtual Reality, Vuforia, WebGL, ARKit, Augmented Reality, Unity, ARCore, Microsoft HoloLens, Meta Quest, Metaverse, C#, Mixed Reality, VR Application, Roblox Studio, Lua, Game Design
+
+**Portfolio (15):** DexiHunter – AR-Based Digital Asset Hunting App; FreudoAR; DrawArt; Wadzzo; VirtuEstate – The Smarter Way to Experience Real Estate; Body/Motion Detection (using Python OpenCV in Unity); Spot Me Find Friends; CoinCrew (2D kids Game); VR Stumble Guy; AR Chess (3D AR Chess Game); Snap3D (Image To 3D Model); Dexi Hunter (duplicate of the first); VR Fire Extinguisher Training Simulator; Interactive WebAR Ice Break Experience; Bringing Reality into VR: Gaussian Splatting in Passthrough. **No Roblox portfolio items.**
+
+**Certifications:** none returned. **Employment:** Senior Software Engineer @ Freelancer; Senior Software Engineer @ Eggy Studio; Developer @ EuphoriaXR. "Senior" at about 3 years after graduating is inflated but plausible. **Other experiences:** none returned.
+
+**Work history** (API shows 10 of 16, newest first):
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Augmented Reality Holiday Card | 2026-09-28 → active | Fixed | — | — | — | — | No |
+| Unity Dev — Kids' Phonics Game | 2026-05-07 → active | Hourly | $36.67 | 1.8 | — | — | No |
+| Uploading App on Appstore | 2026-04-11 → active | Fixed | $250 | — | — | — | No |
+| Unity app new feature development | 2025-10-29 → active | Hourly | $327.50 | 21.8 | — | — | No |
+| Test Streaming SDK | 2025-10-27 → active | Hourly | $85.50 | 3.2 | — | — | No |
+| UNITY Android/IOS development | 2025-10-13 → active | Hourly | $660 | 44 | — | — | No |
+| VR Game Reviewer with Meta Quest | 2026-10-13 → 2026-10-15 | Fixed | $10 | — | 5 | "Fareed did an excellent job on our project. His expertise in Unity development, Virtual Reality (VR), and interactive 3D experiences was evident… solid understanding of VR development for Meta Quest… Communication was smooth…" | No |
+| 30 minute consultation | 2026-08-20 → 2026-08-21 | Fixed | $10 | — | — | — | No |
+| VR Game Reviewer with Meta Quest | 2026-05-03 → 2026-05-06 | Fixed | $5 | — | 5 | "Fareed is an excellent Virtual Reality (VR) Game Tester with strong expertise in gameplay testing, bug tracking, QA reporting, and performance optimization… Proactive communication and fast turnaround." | No |
+| Phase 0 – Final Delivery | 2026-03-27 → 2026-04-09 | Fixed | $500 | — | — | — | No |
+
+⚠️ The 5-star reviews come from $5–$10 "VR Game Reviewer" gigs and are written in a keyword-stuffed style ("Unity developer specializing in VR games, Meta Quest applications…"). This looks like a pattern of cheap review-building contracts. None of the visible work is Roblox.
+
+**Why clients hire/message him:**
+- He has a large, polished portfolio (15 items with STAR-style descriptions) in a niche (AR/VR/Meta Quest) with less competition.
+- The Top Rated badge and $25/hr rate are attractive to budget clients, and the $10 consultation gives a low-risk way in.
+- Several hourly contracts stay open for a long time (ongoing Unity feature work), which suggests repeat or retainer clients.
+- The keyword-rich reviews (even from tiny gigs) help him show up in search.
+- Roblox is listed as a side skill to catch extra searches. There is no Roblox proof.
+
+---
+
+## 2. Rumin A. — Thailand
+
+- **Title:** Roblox Game Developer
+- **Rate:** $22.22/hr · **Badge:** none · **JSS:** n/a · **Earnings:** $3K+ · **Jobs:** 2 (both hourly), 1 feedback · **Hours:** ~159 · **Response time:** n/a
+
+**Overview (verbatim opening):** "I'm a Roblox developer  focused on building optimized and stable game systems without unnecessary complexity. I work with clean, structured scripts and practical architecture that is easy to maintain and extend. Before joining Upwork, I completed multiple commercial Roblox projects for international clients."
+**Structure:** A short positioning hook ("no overengineering") and a claim of off-platform experience. Then sections with emoji headers: What I Do (✅), Technical Skills (•), Work Principles (🟢), What You Get (🚀📱⚡🤝). Ends with a CTA ("Let's discuss your Roblox project…"). Medium length, heavy emoji, all about Roblox, Roblox-specific terms (RemoteEvents, DataStore, mobile UI).
+
+**Skills:** Lua, Roblox Studio, Game Development
+
+**Portfolio (2):** Street Food Incremental; Edvil School
+
+**Certifications / employment / other:** none returned.
+
+**Work history (all shown):**
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Roblox Engineer for Game Development | 2026-05-24 → active | Hourly | $2,421.98 | 109 | — | — | Yes |
+| Roblox Engineer for Game Development | 2026-05-07 → 2026-05-24 | Hourly | $1,103.59 | 49.7 | 5 | "Rumin was very communicative and responsive. I would hire him again." | Yes |
+
+The client was the same both times: after a 2.5-week trial contract, they opened a second, longer contract right away.
+
+**Why clients hire/message him:**
+- He is a pure Roblox specialist. The title, skills and overview are 100% Roblox, so he matches Roblox searches cleanly.
+- The overview speaks a technical client's language (client–server, RemoteEvents, DataStore, mobile support) and promises "no overengineering".
+- He is responsive. The only review praises communication, which won a follow-on contract right after a short trial.
+- At $22/hr he is cheap for hourly Roblox scripting, which lowers the risk of a trial hire.
+- One client gave him about $3.5K and 159 hours. A short paid trial that turns into a long contract is the pattern.
+
+---
+
+## 3. Harshit H. — India
+
+- **Title:** Roblox Developer | Unity Developer | Lua | C# | Game Developer
+- **Rate:** $30/hr · **Badge:** Top Rated Plus · **JSS:** n/a · **Earnings:** n/a (visible contracts add up to about $30.4K) · **Jobs:** 5 (all hourly; the total was recalculated), 2 feedbacks · **Hours:** about 1,361 visible · **Response time:** n/a
+- Availability: full-time. Education: MCA, Kurukshetra University (2021–2023).
+
+**Overview (verbatim opening):** "100+ games delivered across Roblox and Unity, from simulators and tycoons to multiplayer PvP systems and monetization frameworks. Most game projects don't fail at the idea stage,  they fail when gameplay loops don't retain players, monetization isn't built into the architecture from day one, or performance breaks under real player load. That's the gap I close."
+**Structure:** It opens with a volume claim, then reframes the problem (retention, monetization, performance), then "Where I typically get involved" (genres plus Gamepasses, Dev Products, live-ops), then "How I work" (thinks about what keeps players coming back, can join a team or lead). It ends with a Tech & Tools list and a revenue-focused CTA. Long, no emoji, includes a "Last Updated" date.
+
+**Skills:** Unreal Engine, Roblox Studio, Game Development, Simulation Game, Lua, Scripting, User Interface Design, 3D Modeling, Multiplayer, Plugin Development, Game Mechanics, Animation, Game Asset
+
+**Portfolio (13):** Empire Of Sight | Unity | Multiplayer | Blockchain; Callbreak | Card Game | Multiplayer; 3D Action role-playing game ARPG - Unity | Multiplayer; Mini Golf Game - Unity 3D; Casino Alley | Unity Game; Bingo Empire | Unity Game; Meta Rivals - Unity | NFT | Blockchain | Action; Horse Horizon | Roblox Game Development; Tech Wars | Tower Defense | Roblox | Lua; RoVatar – Elemental Adventure RPG | Roblox | Lua; Roblox Game Multiplayer 11v11, AI NPC System (Galactic Hype Soccer); Roblox Soccer Game | Multiplayer + Physics-Based Gameplay (LaserBall); Roblox Sports Game | Multiplayer PvP + Progression System (Judoverse)
+
+Roblox items list a specific tech stack (Knit, ProfileService/DataStores, PathfindingService, TweenService, Dev Products). The "100+ games" claim is most likely studio work (ChicMic), since there are only 5 Upwork jobs.
+
+**Certifications:** none returned. **Employment:** "Expert Roblox, Lua, Unity 2D/3D Game Developer | AR/VR Developer" at both ChicMic Studios and ChicMic Technolgies LLP. The same headline is reused as a job title for the same company listed twice, which is mild padding. **Other experiences:** none returned.
+
+**Work history (4 shown of 5):**
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| MMA Fighters \| Roblox Game Development - Phase 01 | 2026-04-29 → active | Hourly | $19,533.33 | 806 | — | — | Yes |
+| Roblox LUA Development | 2024-11-13 → 2026-04-07 | Hourly | $7,719 | 433 | (no public rating) | — | Yes |
+| Ad tech update in iOS Unity game. | 2024-03-29 → 2024-09-16 | Hourly | $2,708.33 | 108 | 5 | (no text) | No |
+| Hay Pay and Donate now adjustments | 2024-04-19 → 2024-09-13 | Hourly | $415 | 13.8 | 5 | "Developer did a great job I'm very pleased with this work" | Possibly ("Pay and Donate" sounds like Roblox monetization), not confirmed |
+
+**Why clients hire/message him:**
+- The overview is written around outcomes (retention, monetization, performance under load). It speaks to game owners who care about revenue, not only scripting.
+- His proof is broad and deep: 13 portfolio items, 6 of them named Roblox games with genre-specific systems (11v11 AI soccer, tower defense, RPG bending).
+- The Top Rated Plus badge plus large hourly contracts ($19.5K / 806 h in about 6 months, and $7.7K / 433 h) show he wins long, full-time-style engagements.
+- He can join an existing team or lead a build, and names the Knit/ProfileService stack, which signals a professional studio background.
+- He has very few contracts (5), but each one is high value. His earnings come from dedicated long-term clients, not volume.
+
+---
+
+## 4. Wahab A. — Pakistan
+
+- **Title:** Unity & Unreal Game Developer | Multiplayer | Roblox | AR/VR | Mobile
+- **Rate:** $30/hr · **Badge:** none returned · **JSS:** n/a · **Earnings:** $60K+ · **Jobs:** 67 (36 fixed, 31 hourly), 28 feedbacks · **Hours:** n/a · **Response time:** n/a
+- Availability: full-time. Offers a consultation from $50. Education: BEng (2010–2016) and MCA (2017–2019), Central University of Punjab. That university is in India while he is based in Pakistan, which is odd.
+
+**Overview (verbatim opening):** "Professional Game Developer with 5+ years of experience building high-performance games and interactive experiences in Unity, Unreal Engine, and Roblox Studio — across PC, Mobile, and Web platforms. Whether you need a polished multiplayer game, an immersive AR/VR simulation, or a fully scripted Roblox experience, I deliver clean, scalable code and engaging gameplay — on time."
+**Structure:** A credentials hook (years plus 3 engines), then "What I build" (✅ list), then tech stack (🔹 list, Roblox described as "monetization, game loops, UGC"), then a line on quality. Ends with the CTA "📩 Message me… I respond fast and offer a free consultation". Medium length, emoji bullets, generalist positioning.
+
+**Skills:** Unity, Unreal Engine, Roblox Studio, Augmented Reality, AR & VR, Mobile Game, Mobile App, Game, Game Development, Mobile Game Development, Game Background & Environment, Game Art, Game Asset, PC Game, Game Design
+
+**Portfolio (30):** Hyper Casual Games | Meta Kids | Runner game; Cinematic Trailer - Unreal Engine & Unity | Oceanic Horrors; Hyper Casual Game | Fall Guy 3D; Racing Game | GT Mega Ramp Master Stunts 3D; Hyper Casual | Money Land 3D Game Play | City-building game; Racing Game | GT Mega Ramp Bike Stunts 2023; ImentionZ- Ecommerce Web Application; 3D Bunny Punks | Landing page UI; Arcade Car Racing Game | UI Mobile Game; Airplane Real Flight Simulator UI/UX; Low Poly Environment - 3D | Oceanic Horrors; Niche Practice; Gt Car Stunt Game 3d: Car Game; 3D NFT | Character Animation | Oceanic Horrors; 3D Object Match Factory; Quiz App; MellowMen | Staking; Driving School UI/UX; Kereks | Staking; ImentionZ- Mobile Application; Spider Fighter Hero 3d Man; Pen and Web: Software Company; Culture Forward; Booking App for Barbers; Mobile App User Flow; Rock Paper Scissor Unity Multiplayer Game; Clash of legend; Dragon VR Game; 3D Virtual Mall; Electrolysis lab in VR Unity.
+⚠️ **There are no Roblox items.** The portfolio mixes many unrelated things (Solana staking sites, React Native apps, WordPress agency page, NFT art, asset-flip-style Play Store stunt games). Several descriptions are written in the first person plural ("We are professionals"), which suggests an agency or team portfolio presented as one person's work.
+
+**Certifications:** none returned. **Employment:** VR Unity Developer @ Classigo; Lead Unreal Developer @ Dragon Fedration [sic]; CTO @ Penandweb; Senior Software Engineer/Team Lead @ vaival technologies. "CTO" of his own small agency is padding. **Other experiences:** none returned.
+
+**Work history:** `work_history_available: false`. The contract list could not be read. Aggregates only: 67 jobs, $60K+, 28 feedbacks.
+
+**Why clients hire/message him:**
+- Volume and breadth. With 67 jobs and $60K+, he matches almost any game or app search (Unity, Unreal, Roblox, AR/VR, mobile, web3).
+- He has a very large portfolio (30 items), many with live Play Store links, which looks like a lot of shipped work.
+- The "I respond fast" line and free consultation in the CTA lower the friction of a first message.
+- $30/hr is low for someone covering Unity, Unreal and Roblox, so he looks like good value.
+- Roblox is one item in a wider list. There is no visible Roblox proof, so it likely brings him only a small share of his work.
+
+---
+
+## 5. Mayank R. — India
+
+- **Title:** Unreal & Unity Developer | AR/VR & Games | Roblox | Game Developer
+- **Rate:** $25/hr · **Badge:** Top Rated Plus · **JSS:** "100% Job Success" claimed in the overview (the API did not return it) · **Earnings:** not returned. The overview claims "$1M+ earned on Upwork", which almost certainly refers to the ChicMic agency, not him alone. Visible contracts add up to about $113K. · **Jobs:** 17 (1 fixed, 16 hourly), 11 feedbacks · **Hours:** about 4,170 visible · **Response time:** n/a
+- Availability: full-time. Education: MCA, Punjab Technical University (2017–2019).
+
+**Overview (verbatim opening):** "I help studios, founders, and game teams build and scale high-performance games across Unreal, Unity, AR/VR, multiplayer, and Roblox. Backed by ChicMic Studios, with 100% Job Success and $1M+ earned on Upwork, I focus on production-ready delivery for teams that need more than just a developer."
+**Structure:** It opens with who he serves and agency-backed social proof (100% JSS, $1M+). Then 👉 "how I help" blocks, then markdown-style headers (💡 What I Build, 🧠 Core Expertise, 🚀 What Clients Usually Hire Me For, ✅ Why Clients Choose Me, 🤝 CTA). Ends with "Share what you're building, and I'll tell you the best way to approach it", signed "Mayank - ChicMic Studios". Very long and heavily SEO-stuffed: it repeats bolded search phrases like "unreal engine game developer", "ar vr developer" and "vr app developer" many times.
+
+**Skills:** Unreal Engine, PC Game, Roblox Studio, Game Development, Game Mechanics, Multiplayer, C#, Photon Unity Networking, Game Design, Unity, First-Person Shooter, Role-Playing Game, Mobile Game Development, Game Design Document, AR & VR, API Blueprint, Game Consultation, Game Prototype
+
+**Portfolio (29):** First-person shooter multiplayer; Third-Person Shooter Game; Carpet Rush; Strike Rush; Mini Golf Game - Unity 3D | Multiplayer; Drive Simulator; HZM Pool + Unity + Photon; Bingo Empire; Casino Games: BlackJack, Texas Hold'em, Roulette Slots & Vegas game; Carrom: Multiplayer board game; Meta Rivals; Multiplayer advanced & classic Ludo board game; Heavy Truck Simulator; Path of Titans; Song Maker - Music Mixer; Traffic Chaos 3D; Bhabhi Card Game; VR Experience | Vehicle VR (Mahindra); Empire Of Sight; Unity Card Game with Photon (Callbreak); Real-Time Card Game System (Bluffmaster); Hyper Casual Flying Game (Broom Rush); Unreal Open World Survival (PrimusZ); Nemo Land Villa Showcase VR; Nemo Land Kingdom VR; Crazy Rush Heroes; Crazy Defense Heroes; Bent On Destruction VR; Phantom Galaxies Web3 MMO.
+**There are no Roblox portfolio items.** Many of these are shared with Harshit H.'s portfolio (Empire of Sight, Callbreak, Golf Rush, Casino Alley, Bingo Empire, Meta Rivals), so it is an agency portfolio.
+
+**Certifications:** none returned. **Employment:** "Expert Unity 2D/3D and Cocos2D Game Developer | AR/VR Developer" @ ChicMic Studios, using the same headline-as-job-title pattern as Harshit. **Other experiences:** none returned.
+
+**Work history** (API shows 10 of 15, newest first):
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Map Project - enhance current demo with various views, GUI, configurability and other functionality | 2025-06-18 → active | Hourly | $68,466.68 | 2,771 | — | — | No |
+| SDK updates | 2025-01-15 → active | Hourly | $1,750 | 70 | — | — | No |
+| Multiplayer Polish Unreal Engine | 2025-11-25 → 2026-07-11 | Fixed | $2,852 | — | 5 | "A+++ Dev duper helpful and execution was excellent" | No |
+| Roblox Game Development Project Manger | 2024-03-12 → 2026-03-18 | Hourly | $12,283.33 | 491 | (none shown) | — | **Yes** |
+| Unreal Blueprint Coder | 2025-08-26 → 2026-03-18 | Hourly | $216.33 | 9.8 | — | — | No |
+| Unreal SDK Fixes | 2025-01-22 → 2025-10-13 | Hourly | $58.33 | 2.3 | 5 | "Very knowledgeable" | No |
+| Unreal Engine developer needed for corporate training and SDK changes. | 2024-09-26 → 2024-12-17 | Hourly | $6,050 | 242 | 5 | (no text) | No |
+| Mini Golf Game (iOS + Android) work | 2023-11-14 → 2024-03-11 | Hourly | $1,208.33 | 63 | 5 | (no text) | No |
+| Unity Expert needed | 2023-12-18 → 2024-01-31 | Hourly | $591.67 | 23.7 | 5 | "I would definitely work with ChicMic again. They were very thorough in their approach and inspired trust." | No |
+| Develop bubble shooter game | 2023-06-22 → 2023-12-19 | Hourly | $19,920 | 498 | 5 | "Did a great job creating the game I wanted" | No |
+
+The Roblox contract is a "Project Manager" role ($12.3K, 491 h). This suggests he managed a Roblox build that other ChicMic developers worked on (likely including Harshit, whose "Roblox LUA Development" contract has similar dates).
+
+**Why clients hire/message him:**
+- Agency backing. "Backed by ChicMic Studios" plus "$1M+" and "100% JSS" make a $25/hr profile look like a low-risk team. One review even names "ChicMic" instead of him.
+- Very long hourly contracts. One client has paid $68K for 2,771 h, which is in effect a full-time outsourced developer billed through his profile.
+- SEO stuffing. The overview repeats exact search phrases (unreal engine game developer, vr app developer, ar game developer), so it ranks for many queries.
+- A large portfolio (29 items, many with live titles such as Path of Titans and Phantom Galaxies) suggests AAA/studio-level work.
+- For Roblox, he sells management or oversight rather than his own scripting. Roblox is a minor line on the profile.
+
+## 6. Jessi M I. — Philippines (~010ec085fe6b279488)
+## 7. Ahmad I. — Pakistan (~017d82a4f36f38e8c6)
+## 8. Saurav V. — India (~0175bc4357cfc7ff6e)
+## 9. Dexter R. — USA
+
+- **Title:** Coding Tutor: Roblox | Scratch | Python | Appscript | C++ | Arduino
+- **Rate:** $65/hr · **Badge:** none returned · **JSS:** n/a · **Earnings:** $30K+ · **Jobs:** 41 (1 fixed, 40 hourly), 13 feedbacks · **Hours:** n/a · **Response time:** n/a
+- Location: California. Offers a consultation from $40. Education: BA Computer Science, Brown University.
+
+**Overview (verbatim opening):** "Does your kid love Roblox and want to learn how to program? I can teach them! I have worked in the computer industry for over 20 years, including at Google, YouTube, Adobe, and several Silicon Valley startups."
+**Structure:** A question aimed at parents, then big-name credibility (Google/YouTube/Adobe, Brown, 10+ years tutoring, Peace Corps teacher), then the benefit (skills transfer to Python/JS, a step up from Scratch), then his teaching style (patient, tailored). Ends with a warm CTA ("I look forward to hearing from you!"). Long, plain prose, no emoji, written to parents rather than game studios.
+
+**Skills:** Python, JavaScript, C++, C, Roblox Studio, Arduino, Scratch, Google Apps Script, Tutoring, Teaching, Coding Lesson, Game Development, Lua
+
+**Portfolio:** none published (portfolio_total 0).
+
+**Certifications:** none returned. **Employment:** Technical Program Manager @ YouTube; Technical Program Manager @ Google; Software Engineer @ Adobe Systems. These look credible and fit the 20-year claim. **Other experiences:** none returned.
+
+**Work history** (API shows 10 of 38, newest first):
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| AP Computer Science A / Java Tutor — Strong CS Foundations | 2026-10-05 → active | Hourly | $204 | 4 | — | — | No |
+| Software Engineering Explorations | 2026-09-18 → active | Hourly | $240 | 4 | — | — | No |
+| Coaching - 14 year old Arduino and other topics | 2026-06-15 → active | Hourly | $120 | 2 | — | — | No |
+| Roblox Tutoring for Child | 2026-01-09 → active | Hourly | $750 | 12.5 | — | — | Yes (tutoring) |
+| Coding Lessons (Roblox + Lua) | 2025-05-29 → active | Hourly | $1,980 | 37 | — | — | Yes (tutoring) |
+| Google Sheets Expert - Budget Sheet & Calendar | 2023-10-12 → 2026-09-11 | Hourly | $147 | 3 | — | — | No |
+| Roblox Tutoring | 2026-01-05 → 2026-09-11 | Hourly | $420 | 7 | 5 | "Very happy with Dexter, I will use him again in the future!" | Yes (tutoring) |
+| Arduino tutoring session | 2025-05-07 → 2026-09-11 | Hourly | $1,100 | 22 | — | — | No |
+| Google apps script coder + SQL | 2024-03-12 → 2026-09-11 | Hourly | $1,106.67 | 13.3 | — | — | No |
+| Game development coaching | 2026-05-18 → 2026-09-11 | Hourly | $210 | 3.5 | — | — | Possibly |
+
+Note that the effective rate is about $50–60/hr and that many contracts were closed on the same day (2026-09-11), which looks like a cleanup of old open contracts.
+
+**Why clients hire/message him:**
+- He targets a different buyer: parents of kids who play Roblox. He sells learning, not game builds, so he competes with tutors instead of cheap developers.
+- Big-tech names (Google, YouTube, Adobe), Brown University and Peace Corps teaching give parents trust and justify $65/hr.
+- Tutoring is recurring. Contracts last months (e.g. Roblox + Lua lessons, 37 h, still active), so a few clients bring steady income.
+- He is US-based and in the Pacific timezone, which suits US families booking after-school sessions.
+- He cross-sells related subjects (Scratch, Python, Arduino, AP CS) to the same families.
+
+## 10. Pavlo S. — Ukraine (~01b8fb61587be3f9c3)
+
+**NOT FETCHED.** After the first 3 profiles, the API returned `SENSITIVE_RATE_LIMIT_EXCEEDED` once. Every `get_profile` call after that returned `PERMISSION: "you don't have access to this data"`, including re-fetching a profile (Rumin A.) that had loaded a moment earlier. The account seems to be temporarily blocked from profile reads. These 7 profiles need a re-run later.
