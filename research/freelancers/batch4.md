@@ -182,8 +182,85 @@ The Roblox contract is a "Project Manager" role ($12.3K, 491 h). This suggests h
 - A large portfolio (29 items, many with live titles such as Path of Titans and Phantom Galaxies) suggests AAA/studio-level work.
 - For Roblox, he sells management or oversight rather than his own scripting. Roblox is a minor line on the profile.
 
-## 6. Jessi M I. — Philippines (~010ec085fe6b279488)
-## 7. Ahmad I. — Pakistan (~017d82a4f36f38e8c6)
+## 6. Jessi M I. — Philippines
+
+- **Title:** Roblox Developer
+- **Rate:** $10/hr · **Badge:** none returned · **JSS:** n/a · **Earnings:** $4K+ · **Jobs:** 13 (6 fixed, 7 hourly), 6 feedbacks · **Hours:** about 181 visible · **Response time:** n/a
+- Availability: full-time. Education: Computer Science (2018–2022) and MBA (2022–2023), Arellano University.
+
+**Overview (verbatim opening):** "As an excellent game developer, I specialize in building immersive experiences using Roblox and Unity. My Roblox programming expertise includes Lua scripting, creating personalized games, and developing unique gameplay mechanics that ensure consistent performance across platforms and avatar types."
+**Structure:** One short generic paragraph (about 90 words), self-praising ("excellent"), with no proof, process, numbers or formatting and only an implied CTA. It is the weakest overview in this batch.
+
+**Skills:** Web Design, Data Entry, Lua, C#, Game Development, Roblox Studio. "Data Entry" and "Web Design" dilute the profile.
+
+**Portfolio (2):** Escape Goblin Town; Obby But You're On a Unicycle
+
+**Certifications:** none returned. **Employment:** Roblox Developer @ Metakey; Roblox Developer @ Ottodot; I.T Staff @ Arellano University; Junior Software Developer @ Tsukiden Global Inc. These look plausible and are not padded. **Other experiences:** none returned.
+
+**Work history (10 shown):**
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Roblox Gamification Financial Literacy | 2025-08-04 → 2026-10-03 | Fixed | $1,310.98 | — | (none) | — | Yes |
+| Roblox System | 2026-03-24 → 2026-10-03 | Fixed | $650 | — | 5 | (no text) | Yes |
+| Roblox Game Developer Needed for Exciting Project | 2025-09-16 → 2026-02-25 | Fixed | $300 | — | (none) | — | Yes |
+| Advanced Roblox Lua Scripter for Game Development | 2025-02-02 → 2025-12-07 | Hourly | $233.34 | 23.3 | (none) | — | Yes |
+| Roblox Game Developer for Asymmetric PvP Tag Game | 2025-08-01 → 2025-11-24 | Fixed | $700 | — | 5 | "Great Creator. We definitely want to work together again." | Yes |
+| Roblox Game Developer Needed for Complete Game Creation | 2025-04-03 → 2025-11-13 | Hourly | $415 | 138.3 | 4 | (no text) | Yes |
+| Concept dev for Lua Scripting | 2025-10-05 → 2025-11-01 | Hourly | $160 | 16 | **1** | "Non responsive, Logged hours without 30 mins of progress." | Yes |
+| Roblox Scripter | 2025-07-14 → 2025-07-24 | Hourly | $48 | 4 | 5 | (no text) | Yes |
+| Roblox/LUA Developer (Full Game Development) | 2025-06-05 → 2025-06-13 | Fixed | $450 | — | 3 | (no text) | Yes |
+| Looking for a Roblox Developer for Mini-Game Project | 2025-03-17 → 2025-03-26 | Fixed | $550 | — | (none) | — | Yes |
+
+The "Complete Game Creation" contract works out to about $3/hr for 138 h, which shows how cheap the work is. Ratings are mixed (5, 5, 5, 4, 3, 1).
+
+**Why clients hire/message her:**
+- Price. At $10/hr, and with full Roblox games built for $300–$700 fixed, she attracts budget clients who want a whole game.
+- A clear Roblox-only title ("Roblox Developer") and only Roblox jobs, so she matches Roblox searches cleanly.
+- Two portfolio games with fun, concrete names (escape game, unicycle obby) are easy proof for obby or minigame buyers.
+- Employment at Roblox studios (Metakey, Ottodot) adds some credibility.
+- What it costs her: the 1★ "non responsive" and 3★ reviews show that the cheap, high-volume approach hurts her reputation. This is the cautionary example in the batch.
+
+## 7. Ahmad I. — Pakistan
+
+- **Title:** Unity & Unreal Game Developer | Roblox | Interactive 3D | AR/VR/XR
+- **Rate:** $25/hr · **Badge:** Top Rated · **JSS:** n/a · **Earnings:** $60K+ · **Jobs:** 47 (41 fixed, 6 hourly), 22 feedbacks · **Hours:** n/a · **Response time:** n/a
+- Education: BCompSc, University of Sargodha (2012–2016). Says he has 9+ years of experience.
+
+**Overview (verbatim opening):** "🎮 Have a game idea, prototype, or existing project that needs a skilled developer? I'm a 𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 𝟵+ 𝘆𝗲𝗮𝗿𝘀 of experience building 𝟮𝗗/𝟯𝗗 𝗴𝗮𝗺𝗲𝘀, 𝗥𝗼𝗯𝗹𝗼𝘅 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀, 𝗔𝗥/𝗩𝗥/𝗫𝗥 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, and 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝟯𝗗 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀."
+**Structure:** A question hook, then years of experience. Then emoji-headed service blocks (🎮 ⚡ 🔥 🧱 🥽 🌐 📱 ⚙️), then "Why clients work with me" (✅ ×6), then a tech stack line and a CTA ("Send me the details and let's discuss what you're building"). Long. It uses Unicode bold for keywords throughout, which stands out in the overview but may hurt screen readers and search.
+
+**Skills:** Unity, C#, WebGL, Mobile Game Development, C++, Multiplayer, Roblox Studio, Lua, Game Testing, Photonics (an odd mis-pick), 3D Model, Online Multiplayer, Game Development, Augmented Reality, Virtual Reality, Unreal Engine, Game Asset, GameplayKit, Game Design
+
+**Portfolio (87 in total; 50 returned):** Kaminlicht AR App; Kids Plenty; Nomion - Co Vat Gallery; Sim Hotel Tycoon; Zong XR Project; Byggfix AR Measurement; InterApp; Tellpix AR Engine; AR Exhibit; Street Smart VR Training Module; Metro City Scene in Unreal Engine; Unreal Engine 4 Environment; CitsAR; Geevz – Multiplayer AR Social; NewFace – AR Portal; Magician's Curse – AR Puzzle Escape; War Strike FPS; Battle Ready – VR Military Medic Training; Hyperveur – VR Video Calling; Imposter – Couch Party Game; JCL Energy – WebGL Transformer; Hat Shuffle; NASCAR: Tug of War (×2); Photorealistic Interior Visualization; Mountain Road Environment; Lubuds Yacht Scene; Abandoned Tunnel Scene; COD MW-Inspired Forest; Jungle Bunker; The Last of Us Inspired Environment; Horror Environment; Nashville Street Experience; Seattle Kraken Race by Amazon; Vegas Golden Knights Ice Rink; Stadium Environments + Hat Shuffle; Noise Meter; Architectural Visualization; Architecture; Character Modelling; KVMI – AR Brand Experience; Mega Ramp Car Stunt; Hunter Heroes; PropAR; StyleVerve WebAR; Ambani Africa Educational AR; Nature Environment; WebAR 3D Asset Optimization for Claas Tractors; BlingAR; PetVerse – AI Virtual Pet.
+**None of the 50 returned items are Roblox.** Some UE environment pieces are openly migrated demo scenes ("the level itself was not originally created by me").
+
+**Certifications:** none returned. **Employment:** Chief Technology Officer @ Elytra Studios; SENIOR GAME ENGINEER @ Euphoria LLC; Game Developer Lead @ Narsun Studios. The CTO title is probably his own studio, which is mild padding. **Other experiences:** none returned.
+
+**Work history** (API shows 10 of 42, all in progress):
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Pillar Squad | 2026-08-24 → active | Fixed | $1,160 | — | — | — | Unknown |
+| Carbon Market Simulation Game Dev Milestone 2 | 2026-06-30 → active | Fixed | $1,000 | — | — | — | No |
+| Aarkanon Combat Implementation | 2026-06-01 → active | Fixed | $1,700 | — | — | — | Unknown |
+| Project Master Plan Development | 2026-06-01 → active | Fixed | $5,500 | — | — | — | Unknown |
+| AR/VR Game Design | 2026-04-07 → active | Fixed | $3,000 | — | — | — | No |
+| Carbon Market Simulation Game Development Milestone 1 | 2026-03-27 → active | Fixed | $1,000 | — | — | — | No |
+| Unreal Engine 5 VR Navigation Menu Developer | 2025-11-13 → active | Fixed | $825 | — | — | — | No |
+| Augmented Reality Developer for Innovative Project | 2025-08-29 → active | Fixed | $2,500 | — | — | — | No |
+| AR & AI Character Design and Build | 2025-05-19 → active | Fixed | $1,500 | — | — | — | No |
+| QR code for beer distribution | 2025-05-16 → active | Fixed | $2,000 | — | — | — | No |
+
+No reviews are visible in the returned slice. Clients often split work into one fixed-price contract per milestone (e.g. Carbon Market M1 and M2).
+
+**Why clients hire/message him:**
+- A huge, high-quality-looking portfolio (87 items) with branded clients (NASCAR, Seattle Kraken/Amazon, Vegas Golden Knights, Claas). The brand names act as strong social proof.
+- He works mostly on fixed-price milestones ($1K–$5.5K), which is low risk for clients who want defined deliverables.
+- Top Rated plus $60K+ at a $25/hr list rate makes him look like good value.
+- He covers Unity, Unreal, AR/VR and WebAR, which suits agency and brand-activation buyers.
+- Roblox is only listed as a skill to catch searches. There is no Roblox evidence.
+
 ## 8. Saurav V. — India (~0175bc4357cfc7ff6e)
 ## 9. Dexter R. — USA
 
