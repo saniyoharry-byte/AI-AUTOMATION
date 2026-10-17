@@ -261,7 +261,36 @@ No reviews are visible in the returned slice. Clients often split work into one 
 - He covers Unity, Unreal, AR/VR and WebAR, which suits agency and brand-activation buyers.
 - Roblox is only listed as a skill to catch searches. There is no Roblox evidence.
 
-## 8. Saurav V. — India (~0175bc4357cfc7ff6e)
+## 8. Saurav V. — India
+
+- **Title:** Game Developer | Unity, Unreal Engine, Godot & Roblox
+- **Rate:** $15/hr · **Badge:** Top Rated Plus. This is surprising for 3 jobs and about $4.6K visible; the API may be showing an agency or inherited badge, so treat it with caution. · **JSS:** n/a · **Earnings:** not returned (visible contracts add up to about $4.6K) · **Jobs:** 3 (1 fixed, 2 hourly), 2 feedbacks · **Hours:** about 331 · **Response time:** n/a
+- Availability: full-time. Has a YouTube Shorts intro video. Education: BTech CS, listed at Jamnalal Bajaj Institute of Management Studies, a management school that does not offer a BTech, so this looks suspect. Profile created around late 2025.
+
+**Overview (verbatim opening):** "Hi, I'm Saurav. I develop engaging games and interactive experiences using Unity Engine, Unreal Engine, Godot, and Roblox Studio. I'm working across the complete game development process, from understanding the initial concept and designing core gameplay mechanics to implementing features, building levels, integrating multiplayer systems, optimizing performance, and preparing games for release."
+**Structure:** A plain intro, then a framing paragraph that matches the engine to the need. Then ALL-CAPS sections per engine (Unity, Unreal, Godot, Roblox), Multiplayer, AR/VR, and "My Development Approach" (process: review, milestones, risks), ending with a CTA ("Share your game concept… I will review them and suggest a practical development approach"). Very long, no emoji, reads like AI-written prose. The Roblox section names onboarding, retention and monetization as connected systems.
+
+**Skills:** Game Development, Unity, Unreal Engine, Godot, Roblox Studio, Game Engine, C#, C++, Lua, Game Design, Game Mechanics, Game Level, Mobile Game Development, PC Game, Video Game, Online Multiplayer, Virtual Reality, Augmented Reality, AR & VR, VR Application
+
+**Portfolio (8):** Torque War; VRChat Simulator; Orthodontic AR Experience; DK Virtual Reality – Educational VR App; AR Shoe Try-ON; Last Card Game; Bit Freaks; FPS_Multiplayer Game. Most are from his time at the Oodles agency ("Torque Wars sought Oodles…"). **No Roblox items.**
+
+**Certifications:** none returned. **Employment:** Senior Lead Developer @ Oodles Technologies; Software Developer @ Oodles Technologies. Going from Software Developer to "Senior Lead" at a 2021 graduate is inflated. **Other experiences:** none returned.
+
+**Work history (all 3):**
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Mobile Game Dev; back-End Development | 2026-08-18 → active | Hourly | $4,127.50 | 307.5 | — | — | No (unclear) |
+| Godot 3D Development | 2026-08-05 → 2026-09-10 | Hourly | $350 | 23.3 | 5 | (no text) | No |
+| Unity meta quest 3 | 2025-11-19 → 2025-12-02 | Fixed | $115 | — | 5 | "Saurav expert and good communication. helped me alot" | No |
+
+**Why clients hire/message him:**
+- Very low price ($15/hr) for a developer who covers four engines. One client logged 307 h in 2 months, which is basically a cheap full-time developer.
+- His overview is organised by engine and buyer type, so he matches Godot, Unity, Unreal and Roblox searches, including the less crowded Godot niche.
+- The process section ("review the current project and identify technical risks before proposing major changes") reassures owners of existing projects.
+- The badge (whatever its source) plus the intro video help him get clicks despite having only 3 jobs.
+- There is no Roblox delivery. Roblox is only a keyword on his profile.
+
 ## 9. Dexter R. — USA
 
 - **Title:** Coding Tutor: Roblox | Scratch | Python | Appscript | C++ | Arduino
@@ -301,6 +330,40 @@ Note that the effective rate is about $50–60/hr and that many contracts were c
 - He is US-based and in the Pacific timezone, which suits US families booking after-school sessions.
 - He cross-sells related subjects (Scratch, Python, Arduino, AP CS) to the same families.
 
-## 10. Pavlo S. — Ukraine (~01b8fb61587be3f9c3)
+## 10. Pavlo S. — Ukraine
 
-**NOT FETCHED.** After the first 3 profiles, the API returned `SENSITIVE_RATE_LIMIT_EXCEEDED` once. Every `get_profile` call after that returned `PERMISSION: "you don't have access to this data"`, including re-fetching a profile (Rumin A.) that had loaded a moment earlier. The account seems to be temporarily blocked from profile reads. These 7 profiles need a re-run later.
+- **Title:** Game Developer | Unity C# | Roblox Studio (Lua/Luau)
+- **Rate:** $20/hr · **Badge:** Top Rated · **JSS:** n/a · **Earnings:** $6K+ · **Jobs:** 10 (7 fixed, 3 hourly), 7 feedbacks · **Hours:** about 70 visible · **Response time:** n/a
+- Location: Kyiv. Offers a consultation from $40. Education: MSc Applied Mathematics (2018–2023); a game-dev course at "Future game studio" (2021).
+
+**Overview (verbatim opening):** "I build and ship games — mobile, PC, WebGL, and Roblox — from prototype to release, including monetization systems that actually generate revenue. 4+ years of hands-on game development: started with indie prototypes, now working as Lead Unity Developer at an indie studio while taking on freelance projects — from quick fixes to full-cycle builds."
+**Structure:** An outcome hook ("ship… monetization that actually generates revenue"), then a short career story, then two compact skill blocks (UNITY and ROBLOX with dashes). Then one behavioural promise ("if something's blocked, you'll hear about it early, not at the deadline") and a brief CTA. Short (about 150 words), no emoji. It is the tightest overview in this batch.
+
+**Skills:** Unity, C#, Video Game, In-App Purchases, Game Prototype, Game Design Document, Roblox Studio, Lua, Mobile Game, Mobile Game Development, Game, Game Development, Game Design, PC Game, WebGL, Game UI/UX Design
+
+**Portfolio (6):** Hunters Rite game (Godot, itch.io); Tower defence game (itch.io); Jigsaw puzzle game (Play Store); Neon Race arcade game; Cooking game (Soup Rush); **Snack Snap: Dog Cards | Roblox Studio (Lua/Luau)**, as Lead Roblox Scripter.
+
+**Certifications:** none returned. **Employment:** Lead Roblox scripter @ Wait... What? Interactive studio; Lead Unity developer @ the same studio; Physics Teacher @ Ministry of Education and Science; "Strong Junior Unity Developer" @ VENTUMmp game; C++ game developer @ Zagrava games. Honest and plausible (it even says "Strong Junior"). Two "Lead" titles at one small indie studio are mildly inflated. **Other experiences:** none returned.
+
+**Work history (all 9 returned):**
+
+| Title | Dates | Type | Amount | Hours | Rating | Review | Roblox? |
+|---|---|---|---|---|---|---|---|
+| Unity3D Developer – 3d platformer game | 2025-11-18 → active | Fixed | $960 | — | — | — | No |
+| Unity Developer C# for Medical App | 2025-09-30 → 2026-01-12 | Fixed | $1,845 | — | 5 | (no text) | No |
+| Pipe Game - Puzzle unity game | 2025-04-10 → 2025-10-06 | Hourly | $630 | 42 | 5 | (no text) | No |
+| Unity C# Developer for Mobile Unity UI Application | 2025-08-13 → 2025-08-17 | Fixed | $110 | — | 5 | "Pavlo is an amazing Unity developer. He onboarded on my project quickly and efficiently… resolved the issue without any need for actively managing his responsibilities…" | No |
+| Mobile game Official release version | 2024-03-18 → 2025-01-13 | Hourly | $202 | 16.8 | — | — | No |
+| Test DKK 2d pixel | 2024-12-27 → 2025-01-12 | Fixed | $144 | — | 5 | (no text) | No |
+| Experienced Unity Developer Needed for PC Title | 2024-01-16 → 2024-02-04 | Hourly | $115 | 11.5 | 5 | "Pavlo is a great developer with clear and fast communication." | No |
+| Vampire Survivors game | 2022-09-10 → 2023-03-10 | Fixed | $900 | — | 5 | "Pavlo is a great guy to work with. Always delivers stuff on time and above expectation!" | No |
+| Vampire Survivors game clone for NFTs | 2022-05-13 → 2022-08-19 | Fixed | $1,700 | — | 4.85 | "Loved working with Pavlo, he understood the task and delivered exactly what we wanted." | No |
+
+All of his Upwork work is Unity. His Roblox experience comes from studio employment (Snack Snap), not Upwork contracts.
+
+**Why clients hire/message him:**
+- Consistent 5★ reviews with specific praise (onboards fast, needs no managing, clear and fast communication), so he looks safe to hire.
+- A short, outcome-focused overview with a memorable reliability promise ("you'll hear about it early, not at the deadline").
+- Top Rated at $20/hr for Unity: a cheap and reliable option for small fixed-price tasks ($110–$1,845).
+- He is adding Roblox to his title by pointing to studio work (Lead Roblox scripter, a Snack Snap portfolio item). This shows how a Unity freelancer pivots into Roblox without Upwork Roblox contracts.
+- He has a real shipped history (itch.io and Play Store links) and repeat clients (Vampire Survivors twice).
