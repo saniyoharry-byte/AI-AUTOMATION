@@ -1,0 +1,24 @@
+Most Roblox games lose players and Robux in the same places: a confusing shop, buttons too small on phones, lost saves, and no reason to come back tomorrow.
+
+I fix that. I am a Roblox developer and Luau scripter who designs AND scripts game UI and monetization, so you get one person instead of a designer plus a scripter.
+
+WHAT I BUILD
+• Shops, gamepass and developer product screens, daily rewards, streaks, battle passes and season passes
+• HUDs, inventories, Index and settings screens, tested on phone, tablet and PC
+• Core game systems: progression, currency, rebirth, quests, leaderboards and DataStore saving with session locking, so players never lose progress
+• Server-side purchase validation and RemoteEvent security, so purchases are never lost and exploiters cannot fake them
+• Full games and features in popular genres: tycoon, simulator, "Steal a" base-stealing, obby, tower defense and RPG
+• Icons, thumbnails and VFX polish in Blender
+
+MONETIZATION THAT STAYS WITHIN ROBLOX RULES
+Paid random items with clear odds disclosure, content maturity setup, and offers that feel fair to free players. If a feature could put your game at risk of moderation, I tell you before I build it.
+
+HOW I WORK
+1. You send your game link. I send back a short written or video teardown of what I would change and why, free.
+2. Fixed price per milestone. You play-test every milestone in a test copy of your game before paying.
+3. I read your existing code first, so working features keep working.
+4. Clean, commented, modular Luau, hand-written and tested by me. You own everything. I never ask for your password; I work through Team Create or group permissions you control.
+
+Lagos, Nigeria (UTC+1). I overlap with UK/EU mornings and US afternoons, and I reply fast.
+
+Send me your game link and the screen or system that is bothering you.
