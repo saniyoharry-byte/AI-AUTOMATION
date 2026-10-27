@@ -614,3 +614,97 @@ Kazeem M. full employment list (company — job title), 100 entries:
 - Portfolio (7): Short-form Videos for TikTok, Instagram Reels, and YouTube Shorts; Faceless; Documentary; Explainer | Animation | Faceless; Talking head; AI Ads - Health Industry; UGC | ADS | SHORT | AI  (1-word or keyword titles, minimal descriptions)
 - Recent contracts (10 of 17): 2026-10-19, 09-28 ($1,202.50, 84h "Video Editor for Meta Ads (AI first)"), 09-28, 09-21, 09-16, 09-11 ($375), 09-06, 08-21, 08-06 ($201) active; closed 07-29→10-08 ★5 ($180 "YouTube Video Editing"). Titles: "Direct-Response Video Editor (Generative AI, Meta Ads) – 7-Figure DTC Brand", "Need video editor for reels and facebook ads", "Editor for 2d whiteboard explainer channel".
 
+
+---
+## EMPLOYMENT HISTORY: SUMMARY TABLE (all 24)
+| # | Name | Search hits | # entries | How companies are named | How job titles are written |
+|---|---|---|---|---|---|
+| A1 | Hafsa H. | 7/7 | 2 | small agency ("Lamore Digital") + "Freelancer" | plain "Video Editor" ×2 |
+| A2 | Giang P. | 6/7 | 2 | training school ("FPT Arena Multimedia") + **big brand "S&P Global"** | "Visual Design"; "video editer" [sic] |
+| A3 | Luong Tan D. | 5/7 | 2 | **company field used as keyword slot**: "Video Editor \| Big Agency's", "Social Media Marketing \| Content Creator \| Youtube Video Editor" | "Video Editing", "Video Editor" |
+| A4 | Abdullah D. | 5/7 | 1 | real client brand ("MyPackagingPro") | role stack "Video Editor / Graphic Designer / Product Designer" |
+| A5 | Syed Muhammad A. | 5/7 | 6 | agencies/startups (Alch3m1st, OAM Digital, MON Group, SWISH Marketing Agency, Smarty AI, Times Consultant) | keyword + seniority: "Short-Form Video Editor Specialist", "Short-Form Video Expert", "Video Editing Manager" ×2, "Full Stack Video Expert", "Video Editor Intern" |
+| A6 | Umair T. | 5/7 | 3 | generic studio names (NovaCore Game Labs, PixelForge Technologies, Vertex Interactive Studios) | non-video design titles, company name repeated inside title |
+| A7 | Fawas P. | 4/7 | 1 | **own agency** ("Vishfa Digital Solutions") | "Co Founder" |
+| A8 | Van Trung N. | 4/7 | 2 | "TP Entertainment"; **"Ebay E-commerce Company"** | "Video Editor"; "Management Online Store and Promotion Video" |
+| A9 | Kaiwan I. | 4/7 | 7 | generic "…Studio Solutions"/"…Pvt Ltd" names | **one service keyword per entry**: Video Ad Creator / YouTube Video Editor / Motion Graphics Expert / Video Design Expert / Social Media Video Specialist / Video Production Specialist / Video Editing Expert |
+| A10 | Minh K. | 3/7 | 1 | **"Upwork"** | "Video Editor" |
+| A11 | Barzaan Ali K. | 3/7 | 4 | own studio + "Freelance" + 2 production houses | career ladder with emoji: "💼 Junior Video Editor" → "💼 Team Lead Video Editors" → "💼 Lead YouTube Editor & Content Strategist" → "💼 Founder" |
+| A12 | Vo N. | 3/7 | 2 | real employers (FPT Media; Viettel telecom) | "Video Editor"; "Telecommunications Engineer" (honest, non-keyword) |
+| B1 | Mustafa I. | 3/7 + 4 RT | 2 | IBEX Global (BPO), Arena Multimedia | "Video Editor"; "Video editor and Motion graphic artist" |
+| B2 | Tatheer A. | 5/7 | 1 | "Team AR" | "Video Editor" |
+| B3 | Dua D. | 1/7 + 4 RT | 3 | **placeholder "Remotely"/"Remotly"** | **pure search keywords**: "Short Form Video Editor", "Podcast Clips Editing", "YouTube Video Editore" [sic] |
+| B4 | Sana A. | 2/7 | 5 | agencies (Xpo9tial, One Hub, DigixStudio, Prism Digital, **Bruce Clay MENA**) | compound keyword titles: "Senior Video Editing & Short-Form Content Expert", "Short-Form Video Editor & Social Media Content Creator", "Expert Video Editor & Video Advertising Specialist"… |
+| B5 | Ammad R. | 2/7 | 2 | production co + news outlet ("Metro News") | "Video Editor"; "News Editor" |
+| B6 | Areej R. | 4 RT | 4 | client industries (travel agency, eczema brand, HBCU Creatives, **"Kia Motors"**) | platform keywords: "UGC Video Editor l Trend Researcher", "Social Media Video Editor", "Reels, Tiktok & Shorts Editor" |
+| B7 | Linh D. | 4 RT | 1 | "vận chuyển" (Vietnamese: shipping) | "editor" |
+| B8 | Lam P. | 3 RT | 2 | own name; "Rom Media" | "Youtuber"; "Editor video" |
+| B9 | Dung N. | 4 RT | 3 | "Self-Employed / Freelance" ×2; "vnexpess" [sic] | "Video Editor"; **"Video Editor \| YouTube & Short-Form Content"** (copies title formula) |
+| B10 | Syed R. | 4 RT | 2 | small agencies (Diligenttek, Bits N Digits) | "Social Media Manager & Video Ad Designer"; "Video Editor" |
+| B11 | Samar F. | 4 RT | 2 | in-house at textile companies | "Video Editor"; "VIDEO EDITOR" |
+| B12 | Bao N. | 4 RT | 1 | "MCV GROUP CORPORATION" | "Video Editor" |
+
+**Counts:** entries per person range 1–7 (median 2). **Nobody has 50+ entries.** 6 of 24 have exactly 1 entry. Only 4 people (Syed Muhammad A. 6, Kaiwan 7, Sana 5, Barzaan 4 / Areej 4) go above 3.
+
+---
+## ANALYSIS
+
+### 1. Employment history patterns
+**How companies are named (24 profiles, 53 entries):**
+- **Small agencies or studios with real-sounding names:** most common (Syed Muhammad A., Sana A., Kaiwan I., Barzaan Ali K., Hafsa H., Syed R.).
+- **Own studio/agency as Founder/Co-founder:** Fawas P. (Vishfa Digital Solutions, $400K+), Barzaan Ali K. (Pixelon Production). Both are high earners; the agency framing fits the "team" language in their overviews.
+- **"Freelance"/"Freelancer"/"Self-Employed"/"Remotely"/"Upwork":** Hafsa H., Barzaan, Dung N. ×2, Dua D. ×3, Minh K. ("Upwork"). Used as a legitimate container for freelance work.
+- **Client or industry names:** textile companies (Samar F.), travel agency, eczema brand (Areej R.), packaging brand (Abdullah D.), news outlets (Ammad R., Dung N.).
+- **Big brands:** S&P Global (Giang P.), "Ebay E-commerce Company" (Van Trung N.), Kia Motors (Areej R.), Bruce Clay MENA (Sana A.), VnExpress (Dung N., misspelled), Viettel (Vo N., which matches his telecom degrees). None of these can be verified through the API. Only Vo N.'s looks internally consistent **(inference)**.
+- **Company field used as a keyword slot:** Luong Tan D. ("Social Media Marketing | Content Creator | Youtube Video Editor" as the *company*). He has the best average rank of any multi-query ranker (4.0). That doesn't prove the employment field helps, but it shows nothing penalised it **(inference)**.
+- **Nobody uses "NDA client" or "Confidential".**
+
+**How job titles are written:**
+- **Plain "Video Editor":** about half of all entries. Top performers Hafsa H. (7/7 queries) and Tatheer A. (5/7, unbadged) have only plain "Video Editor" titles. **So keyword-stuffed employment is not needed to rank** (inference from the sample).
+- **Keyword titles that mirror target searches:** Dua D. ("Short Form Video Editor", "Podcast Clips Editing", "YouTube Video Editor[e]"), Areej R. ("Reels, Tiktok & Shorts Editor", "UGC Video Editor"), Syed Muhammad A. ("Short-Form Video Editor Specialist", "Short-Form Video Expert"), Sana A. ("…Short-Form Content Expert"), Kaiwan I. (7 different service keywords), Dung N. (one title copies his profile title: "Video Editor | YouTube & Short-Form Content").
+- **Seniority ladder:** Barzaan (Junior → Team Lead → Lead → Founder) and Syed Muhammad A. (Intern → Specialist → Manager). These tell a growth story rather than stuffing keywords.
+- **Platform names inside job titles** (Reels/TikTok/Shorts/YouTube/UGC): only Areej R., Dua D., Barzaan, Kaiwan, Dung N. Most people keep platform names for the profile title and overview instead.
+
+**Red flags seen (unverifiable; inference where noted):**
+- **Big-brand name drops with no corroboration:** S&P Global + "video editer" typo (Giang P.), "Ebay E-commerce Company" (Van Trung N.), Kia Motors with a freelance-style "Reels, Tiktok & Shorts Editor" title (Areej R.), Bruce Clay MENA (Sana A.).
+- **Generic/likely-invented studio names, entered in one batch:** Umair T. (NovaCore Game Labs / PixelForge Technologies / Vertex Interactive Studios; non-video titles), Kaiwan I. (7 entries, 6 in one ID batch). Syed Muhammad A., Sana A. and Areej R. also added all their entries in one batch (sequential IDs).
+- **Copied content between profiles:** the role string "Apocalyptic Documentary Creator" and the same asteroid-documentary description appear in Hafsa H., Areej R. and Samar F. Dung N.'s portfolio title/text "VLOG , TRAVEL VIDEOS - visual storytelling videos" is identical to Luong Tan D.'s. Possible shared team or template, or copying **(inference)**.
+- **Implausible education:** Dung N. lists a "Doctor of Engineering" in 2018–2022, the same window as his undergrad. Dua D. lists a "Bachelor of Visual Communication Design" from a computer center.
+- **Claims that don't match API data:** Sana A. claims "100% Job Success Score" while the API shows JSS 88. Linh D. has a portfolio image saying "TOP RATED UPWORK FREELANCER" but has no TR badge. Syed Muhammad A. says "290+" and "260+" projects in the same overview.
+- **Unfilled AI-template placeholders:** Ammad R.'s portfolio title "B2B Video for [SaaS / Consultant]".
+- **Job-post titles copied as employment titles:** not observed. Employment titles are short. The long job-post-style titles appear only in work history, where clients wrote them.
+
+### 2. Profile title formula
+Nearly every ranker uses **[Role] | [Platform/format list] | [Niche/outcome]**, separated by pipes. Observed variants:
+- **Exact-phrase first:** "Short Form Video Editor | YouTube Shorts, Reels & TikTok Editor" (Tatheer); "Short-Form Video Editor for TikTok, Instagram Reels & YouTube Shorts" (Dua); "Short-Form Video Editor | UGC Ads | VSL | Reels & TikTok | Get Sales" (Syed Muhammad A.).
+- **Broad role + platform list:** "Video Editor | Short-Form, YouTube, Tiktok, Meta Ads, VSL & AI UGC" (Van Trung, #1 for UGC); "Professional Video Editor | YouTube, Ads, Shorts, Reels, TikTok" (Giang, 6/7); "Video Editing | Short-Form Video Editor | YouTube Videos | Meta Ads" (Luong, avg rank 4.0).
+- **YouTube-anchored + short-form:** "YouTube Video Editor | Reels, Shorts & Motion Graphics" (Hafsa, 7/7), and Mustafa uses the same pattern. Titles that start with "YouTube Video Editor" still rank in TikTok/Reels/UGC searches when the overview covers those words.
+- **Outliers that rank without platform words:** Fawas ("Certified Youtube Strategist | 10 Years Of Experience | Video Editor"), carried by $400K+ history **(inference)**. Rahool T. ("Top 1 Percent Professional Video Editor", 140 jobs) also ranks in Q2/Q5.
+- **Words that recur most:** Video Editor, Short-Form, Reels, TikTok, Shorts, YouTube, UGC, Ads/Meta Ads, VSL, Motion Graphics.
+
+### 3. Overview structure and keyword strategy
+Four strategies were observed (with examples):
+1. **Keyword block at the end:** Syed Muhammad A. ("Keywords for UMA and Client Matching:" + ~60 phrases, including all 7 of our search phrases), Fawas P. ("Keywords for Finding Me:"), Tatheer A. (one keyword per line at the end), Dua D. (3 blocks: Title Case list, lowercase list, hashtags), Linh D. (~45 hashtags), Sana A. ("Video Editing Services:" pipe list), Minh K. ("Key Skills:" pipe rows). **7 of 24 use an explicit block.**
+2. **Extreme repetition / hidden block:** Kaiwan I. has a keyword line before the intro, about 40 blank lines, then the same keyword string repeated 25+ times, also pasted into every portfolio description. He still ranks 4/7, but with a weak average rank (17.8). Probably spam-risky **(inference)**.
+3. **Keywords woven into service bullets (no dump):** Mustafa I., Barzaan Ali K. (repeats "YouTube Video Editor" about 6× naturally), Syed R. ("What I Edit" + "Services I Offer", 22 keyword lines), Dung N. ("Video Editor" repeated in headings), Giang P., Van Trung N., Abdullah D.
+4. **Copywriting / proof-led with few keywords:** Ammad R. (pain hook, named brands, free "hook edit"), Abdullah D. (proof stats first, ALL-CAPS sections), Samar F. (short), Vo N. and Lam P. (short/plain). Umair T. is generic and still ranks 5/7.
+
+**Common section skeleton** (most frequent order): hook/positioning line → proof numbers (JSS, jobs, $ earned, views) → "What I do / What I edit" bullets naming platforms → process or "Why work with me" → tools → CTA (often a **free trial/sample/audit**: Luong, Syed Muhammad A., Linh, Samar, Ammad, Mustafa) → optional keyword block.
+**Platform words in the first 400 characters:** 20 of 24 name Reels/TikTok/Shorts or "short-form" before the 400-character mark.
+
+### 4. What sets the most-searched apart
+- **Account history beats copywriting at the very top** (inference): Hafsa H. (7/7) has 509 jobs, $70K+, TR+, and about 10 new contracts in the last 2 weeks. Giang P. (6/7) has 332 jobs and 10 contracts started since 2026-10-07. Fawas has $400K+. Their employment sections are minimal (1–2 plain entries).
+- **High contract recency/volume shows up everywhere:** almost every top ranker had several contracts started within the last 1–3 weeks, usually small tickets ($10–$400). Tatheer (unbadged, JSS 88) had about 10 orders started Oct 5–27. Recency/activity seems to matter **(inference; the API exposes no ranking factors)**.
+- **Text that matches buyer phrases exactly lifts weak accounts:** Tatheer A. ($2K+, JSS 88, no badge) appears in 5/7 open searches. Her title and overview contain almost exactly "Short Form Video Editor", "YouTube Shorts editor", "Reel editor", "TikTok video editor", "Podcast Clip Editor", "UGC Video Editing", "content creators". Sana A. ($1K+, new) ranks #3 in two searches with a dense short-form overview plus a services keyword block. Minh K. ($4K+) is #1 for "Reels editor".
+- **Broad coverage = more searches:** the people in 5–7 searches name YouTube + Shorts + Reels + TikTok + ads/UGC in the title or first lines. Narrow specialists rank only in their niche: Ammad (ads only) in 2/7; podcast producers only in Q6.
+- **Employment entry count does not track ranking:** Hafsa (2 entries) is in 7/7 and Kaiwan (7 keyword entries) is in 4/7 with a poor average rank. Luong's keyword-stuffed company field comes with the best average rank, but he also has strong history. Treat employment as a **trust/credibility section, not the main ranking lever** (inference).
+- **Rising Talent searches** show the same pattern among new accounts: Lam P. (avg 1.7) and Areej R. (avg 4.0) top them with short-form platform titles and 100% JSS. All 12 RT regulars have JSS 100 or no JSS yet.
+
+### 5. Practical takeaways for Harry (inference: recommendations, not API facts)
+1. **Title:** "Short-Form Video Editor | Reels, TikTok & YouTube Shorts | [niche e.g. Podcast Clips / UGC Ads]". Put the exact buyer phrase first.
+2. **Overview first 2 lines:** state the exact role phrase plus all three platforms plus who you serve. Add one proof point as soon as you have it.
+3. **Services bullets** that each read like a search phrase: YouTube Shorts editing, Instagram Reels editing, TikTok video editing, podcast clips, UGC ads, talking-head, content repurposing. An optional short keyword list at the end is common among rankers (Tatheer, Dua, Syed Muhammad A., Sana). Avoid Kaiwan-style repetition.
+4. **Employment (1–4 honest entries):** use your real freelance work ("Freelance", "Self-Employed", or your own studio name as Founder). Job titles can include the niche ("Short-Form Video Editor – Reels/TikTok", "Podcast Clips Editor") the way Dua D. and Areej R. do. **Do not** invent agencies or name-drop big brands you didn't work for (S&P Global/Kia/eBay-style entries are the weakest pattern here). Do not let a typo through ("editer", "Editore", "Remotly").
+5. **Portfolio titles carry keywords too.** Vo N. (18 keyword-titled items) and Dua D. show this pattern.
+6. **Get many small contracts quickly.** Every ranker shows a steady stream of new $10–$100 orders. A free trial/sample CTA is common among the newer accounts (Linh, Samar, Mustafa, Luong).
+7. **Keep claims consistent with your stats.** Don't claim "100% JSS" or "Top Rated" before you have it (Sana A., Linh D. examples).
