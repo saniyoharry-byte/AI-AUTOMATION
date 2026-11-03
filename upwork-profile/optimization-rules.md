@@ -23,9 +23,9 @@ Share of the 391 real editing jobs that name each tool:
 | **Adobe Premiere Pro** | **37%** | ✅ Yes | Skills, overview, portfolio |
 | **Adobe After Effects** | **21%** | ✅ Yes | Skills, overview, portfolio |
 | **CapCut** | **19%** | ✅ Yes | Skills, overview, portfolio |
-| DaVinci Resolve | 11% | ❓ Only if you can | Add if yes |
-| Final Cut Pro | 10% | ❓ Mac only. Only if you can | Add if yes |
-| Descript | 7% | ❓ Only if you can | Add if yes (popular for podcasts) |
+| DaVinci Resolve | 11% | ✅ Yes | Skills, overview |
+| Final Cut Pro | 10% | ✅ Yes | Skills, overview |
+| Descript | 7% | ✅ Yes | Skills, overview |
 | Higgsfield | 3% | ✅ Yes | Skills, overview, portfolio |
 | Kling | 3% | ✅ Yes | Skills, overview |
 | Veo | 3% | ✅ Yes | Overview |
@@ -35,7 +35,7 @@ Share of the 391 real editing jobs that name each tool:
 | Riverside (podcast recording) | 2% | ✅ Can work with its files | Overview (podcast clients) |
 | Canva | 3% | ❓ Only if you use it | Add if yes |
 
-**Skills change (20 slots):** add **higgsfield, ElevenLabs and Kling AI**. Remove three that repeat others: **Video Editing & Production** (repeats Video Editing), **Video Ad** (repeats Short Video Ad) and **Social Media Content Creation**.
+**Skills change (20 slots, live since 3 November):** added **DaVinci Resolve, Final Cut Pro and Descript** (named in 11%, 10% and 7% of jobs). Removed **Video Editing & Production, Video Ad and Social Media Content Creation**, which repeat other skills. Higgsfield, Kling, Veo, ElevenLabs and Opus Clip are named in the overview instead, because they appear in fewer jobs (2–3%).
 
 ## Rules 2 and 3: the recurring problem we picked
 
